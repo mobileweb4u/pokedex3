@@ -1,4 +1,6 @@
 # pokedex3
+Lecture 103 Segmented Control
+
 Lecture 102 Detail controller & segue.
 
 WHAT HAS BEEN LEARNED TODAY: 2. 29/08/2016	NAME: Frederick Russell
