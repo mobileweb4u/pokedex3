@@ -3,7 +3,7 @@
 WHAT HAS BEEN LEARNED TODAY:
 In this lesson, I learn how to Add search bar & search filter,
 How to dismiss the keyboard in IOS with Swift both by tapping outside the keyboard and by hitting return on the keyboard.
-Important lesson learnt today lost to the two days work due to not updating my work on GitHub.
+Important lesson learnt today lost of two days work due to me not updating my work on GitHub.
 
 ACTIONS REQUIRED/TAKEN AT THE END OF THE DAYS WORK
 When make changes to your project push to GitHub.
